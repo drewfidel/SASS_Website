@@ -1,0 +1,20 @@
+{
+  "name": "SASS_Website",
+  "version": "1.0.0",
+  "description": "First website using SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewfidel/SASS_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewfidel/SASS_Website/issues"
+  },
+  "homepage": "https://github.com/drewfidel/SASS_Website#readme"
+}

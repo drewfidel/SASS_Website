@@ -1,0 +1,9 @@
+$ npm init --y 
+$ npm install node-sass -D
+$ npm run sass
+
+
+in package.json:
+ "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
