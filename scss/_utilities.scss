@@ -41,10 +41,10 @@ input[class^='btn-']:hover {
   background-color: $main-color;
 }
 
-// .lead {
-//   font-size: 1.3rem;
-//   margin-bottom: 2rem;
-// }
+.lead {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
 
 // Any text we want to center
 .text-center {
@@ -87,4 +87,21 @@ input[class^='btn-']:hover {
   &-4 {
     margin: 4rem 0;
   }
+}
+
+.section-title {
+  font-size: 2rem;
+  display: block;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  // font-weight: 100;
+  text-transform: uppercase;
+}
+
+.bottom-line {
+  height: 2px;
+  width: 3rem;
+  background: $main-color;
+  display: block;
+  margin: 0 auto 1rem auto;
 }
