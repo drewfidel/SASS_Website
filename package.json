@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/drewfidel/SASS_Website#readme",
   "dependencies": {
-    "git": "^0.1.5",
     "npm-git-install": "^0.3.0"
   }
 }
