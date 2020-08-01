@@ -1,6 +1,4 @@
-# SASS_Website
-
-First website using SASS
+# Example Portfolio Website
 
 ## Home Page
 ![alt-text](portfolio_gif2.gif)
