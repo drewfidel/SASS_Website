@@ -2,8 +2,8 @@
 
 First website using SASS
 
-##Home Page
+## Home Page
 ![alt-text](portfolio_gif2.gif)
-##Work Page 
+## Work Page 
 ![alt-text](portfolio_gif.gif)
 
