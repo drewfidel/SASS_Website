@@ -2,4 +2,4 @@
 
 First website using SASS
 
-http://g.recordit.co/krWLw1uXfu.gif
+![Recordit GIF](http://g.recordit.co/krWLw1uXfu.gif)
