@@ -3,4 +3,4 @@
 First website using SASS
 
 
-![alt-text](master/portfolio_gif.gif)
+![alt-text](portfolio_gif.gif)
